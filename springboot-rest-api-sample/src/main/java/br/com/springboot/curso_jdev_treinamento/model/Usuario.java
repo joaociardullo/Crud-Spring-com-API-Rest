@@ -2,7 +2,7 @@ package br.com.springboot.curso_jdev_treinamento.model; //criação de models pa
 
 import java.io.Serializable;
 
-import javax.annotation.Generated;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
