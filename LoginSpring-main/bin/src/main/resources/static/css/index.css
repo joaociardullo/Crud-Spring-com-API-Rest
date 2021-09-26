@@ -1,0 +1,65 @@
+body{
+	background-image: url("../img/fundo2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+
+.container{
+	margin-top: 15%;
+}
+.card{
+	
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-weight: bolder;
+	border-style: none;
+	margin-left: 25%;
+}
+
+.card-header{
+	text-align: center;
+	background-image: linear-gradient(to right, #ff00a0, #120458);
+}
+
+.card-body{
+background-image: url("../img/fundo-card-1.jpg");
+background-size: 740px 330px;;
+background-repeat: no-repeat;
+}
+.btn-primary{
+		background-image: linear-gradient(to right, #ff00a0, #120458);
+		width: 100%;
+	}
+.btn-primary:hover{
+		background-image: linear-gradient(to right, #120458, #ff00a0);
+		width: 100%;
+	}
+.formulario{
+	width: 100%;
+}
+.btn-secondary{
+		background-image: linear-gradient(to right, #ff00a0, #120458);
+		width: 100%;
+		
+	}
+.btn-secondary:hover{
+		background-image: linear-gradient(to right, #120458, #ff00a0);
+		width: 100%;
+	}
+.alert-danger{
+position: absolute;
+	width: 100%;
+	text-align: center;
+	margin-top: 0%;
+	}
+	.alert-sucess{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	margin-top: 0%;
+	}
+	
+	#sair{
+	margin-top: 8px;
+	}

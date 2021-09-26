@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
+    <fullyQualifiedTypeName name="javax.annotation.Generated"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="br.com.springboot.curso_jdev_treinamento.repository.UsuarioRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.com.springboot.curso_jdev_treinamento.controllers.GreetingsController"/>
+    <fullyQualifiedTypeName name="br.com.springboot.curso_jdev_treinamento.model.Usuario"/>
+</qualifiedTypeNameHistroy>

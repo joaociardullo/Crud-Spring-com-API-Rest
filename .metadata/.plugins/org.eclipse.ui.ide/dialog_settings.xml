@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
-		<item value="" key="PATH_FILTER"/>
-		<item value="true" key="CASE_SENSITIVE"/>
-		<item value="" key="LAST_QUERY"/>
-		<item value="false" key="KEEP_OPEN"/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="LAST_QUERY" value=""/>
+		<item key="KEEP_OPEN" value="false"/>
 		<list key="SASH_WEIGHTS">
 			<item value="714"/>
 			<item value="285"/>
@@ -15,13 +15,28 @@
 			<item value="110"/>
 		</list>
 		<section name="DialogBoundsSettings">
-			<item value="600" key="DIALOG_WIDTH"/>
-			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
-			<item value="500" key="DIALOG_HEIGHT"/>
-			<item value="709" key="DIALOG_X_ORIGIN"/>
-			<item value="238" key="DIALOG_Y_ORIGIN"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_X_ORIGIN" value="709"/>
+			<item key="DIALOG_Y_ORIGIN" value="238"/>
 		</section>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\worksapce-curso-spring-rest\LoginSpring-main"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>
