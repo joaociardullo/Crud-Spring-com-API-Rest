@@ -67,7 +67,7 @@ public class GreetingsController {
 
 	@PostMapping(value = "salvar") /* Mapeia a URL Enviar os dados dentro da requisição via post */
 	@ResponseBody /* Descrição da resposta */
-	public ResponseEntity<Usuario> salvar(@RequestBody Usuario usuario) {
+	public ResponseEntity<Usuario>salvar(@RequestBody Usuario usuario) {
 
 		Usuario user = usuarioRepository.save(usuario);
 
